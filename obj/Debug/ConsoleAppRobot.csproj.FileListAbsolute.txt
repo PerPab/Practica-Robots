@@ -1,0 +1,8 @@
+D:\Robot\ConsoleAppRobot\bin\Debug\ConsoleAppRobot.exe.config
+D:\Robot\ConsoleAppRobot\bin\Debug\ConsoleAppRobot.exe
+D:\Robot\ConsoleAppRobot\bin\Debug\ConsoleAppRobot.pdb
+D:\Robot\ConsoleAppRobot\obj\Debug\ConsoleAppRobot.csproj.AssemblyReference.cache
+D:\Robot\ConsoleAppRobot\obj\Debug\ConsoleAppRobot.csproj.SuggestedBindingRedirects.cache
+D:\Robot\ConsoleAppRobot\obj\Debug\ConsoleAppRobot.csproj.CoreCompileInputs.cache
+D:\Robot\ConsoleAppRobot\obj\Debug\ConsoleAppRobot.exe
+D:\Robot\ConsoleAppRobot\obj\Debug\ConsoleAppRobot.pdb
