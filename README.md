@@ -1,8 +1,8 @@
-<h1>Practica con robots 🤖</h1>
+<h1>Práctica con robots 🤖</h1>
 
 </br>
 
--- Se trata de un algoritmo que genera dos clases de robots, Heavy y Light, ambos tienen los stats generados de manera aleatoria y se dan golpes 🦾👊🔥 hasta que a uno de ellos se les acabe la energía --
+-- Se trata de un algoritmo que crea dos clases de robots, Heavy y Light, ambos tienen los stats generados de manera aleatoria y se dan golpes 🦾👊🔥 hasta que a uno de ellos se les acabe la energía --
   
   
 </br>
